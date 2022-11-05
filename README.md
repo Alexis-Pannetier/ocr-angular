@@ -1,6 +1,6 @@
-# OcsAngular
+# OCR-Angular
 
-From OpenClassroom course : https://openclassrooms.com/fr/courses/7471261-debutez-avec-angular
+From OpenClassRoom course : https://openclassrooms.com/fr/courses/7471261-debutez-avec-angular
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.8.
 
